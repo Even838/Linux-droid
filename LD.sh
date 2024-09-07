@@ -12,7 +12,7 @@ cat_func() {
 
 hist_func(){
  History                                          }
-
+}
 list_dir() {
     p="/sdcard"
 
